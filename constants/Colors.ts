@@ -16,4 +16,11 @@ export default {
     tabIconDefault: '#ccc',
     tabIconSelected: tintColorDark,
   },
+    background: "#F7F5EF",
+    card: "#FFFFFF",
+    primary: "#1F4E3D",
+    text: "#1D2B2A",
+    subtle: "#6F8F80",
+  
 };
+
