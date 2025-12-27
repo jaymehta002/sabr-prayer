@@ -42,6 +42,7 @@ const styles = StyleSheet.create({
     height: 10,
     borderRadius: 5,
   },
+  
   completedDot: {
     backgroundColor: '#60a5fa',
   },
